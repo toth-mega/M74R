@@ -1,0 +1,22 @@
+** ECO In Report **
+
+Wed Nov 13 06:36:42 2024
+
+Input  File : C:\PADs Projects\MEg74K12\M74R2\M74R2.eco
+Current Job : M74R2.pcb
+
+
+
+Line 96 , Section *SPLITNET*
+* WARNING: Splitting a Net +5V in desired fashion requires deletion of more than one connection
+* Deleting connection L2.1-R19.2 ...
+* Deleting connection R19.2-R21.1 ...
+* Deleting connection N1.1-N1.3 ...
+* WARNING: Added connection between L2.1 R21.1 to keep continuity of net +5V
+* WARNING: Added connection between R19.2 N1.3 to keep continuity of net N173047343
+
+Line 101 , Section *SPLITNET*
+* WARNING: Splitting a Net GND in desired fashion requires deletion of more than one connection
+* Deleting connection D1.3-C14.1 ...
+* Deleting connection C16.1-X7.8 ...
+* WARNING: Added connection between D1.3 X7.8 to keep continuity of net GND

@@ -1,0 +1,1759 @@
+(PCB M74R2
+ (description
+  (timeStamp "2024 11 13 05 36 07")
+  (program "CAPTURE.EXE" (Version "16.6.0.d001"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "Senzor")
+  (date "Tuesday, November 12, 2024")
+  (document "M74R2")
+  (revision "")
+  (organization "MEgA")
+  (address1 "MEg74 - Senzor")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}ß{Value}ß{Description}"))
+ (structure )
+ (placement
+  (component DIODE2_K_0
+   (place D1
+    (property 
+     (Size SOT23)
+     ("PCB Footprint" ZSOT23A)
+     (timestamp 01080CE8)
+     ("Source Package" DIODE2_K_0)
+     (Assembled Automat)
+     (MEgA_ID 55686)
+     (Group PamÏù)
+     (Manufacturer "11AA010T-I/TT")
+     (Value "11AA010T-I/TT"))))
+  (component DIODE2x2_AK_2
+   (place V5
+    (property 
+     (Size SOT363)
+     (Voltage "30V @1V")
+     ("PCB Footprint" ZSOT363)
+     (timestamp 01087B8C)
+     ("Source Package" DIODE2x2_AK_2)
+     (Assembled Automat)
+     (MEgA_ID 52063)
+     (Group "L3 - Napeti")
+     (Manufacturer BAT54BRW)
+     (Value *BAT54BRW)
+     (Power 200mA)))
+   (place V6
+    (property 
+     (Size SOT363)
+     (Voltage "30V @1V")
+     ("PCB Footprint" ZSOT363)
+     (timestamp 01087E83)
+     ("Source Package" DIODE2x2_AK_2)
+     (Assembled Automat)
+     (MEgA_ID 52063)
+     (Group "L3 - Napeti")
+     (Manufacturer BAT54BRW)
+     (Value *BAT54BRW)
+     (Power 200mA))))
+  (component SP1
+   (place X1
+    (property 
+     (Size "d=0.8/1.5 mm")
+     ("PCB Footprint" HOLE_008_P_015)
+     (timestamp 0107D735)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEgA_ID 90024)
+     (Group "Proud I1")
+     (Value "*Dira 0.8mm")
+     (Description I1)))
+   (place X2
+    (property 
+     (Size "d=0.8/1.5 mm")
+     ("PCB Footprint" HOLE_008_P_015)
+     (timestamp 0107D7DB)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEgA_ID 90024)
+     (Group "Proud I1")
+     (Value "*Dira 0.8mm")
+     (Description I1G)))
+   (place X3
+    (property 
+     (Size "d=0.8/1.5 mm")
+     ("PCB Footprint" HOLE_008_P_015)
+     (timestamp 01080899)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEgA_ID 90024)
+     (Group "Proud I2")
+     (Value "*Dira 0.8mm")
+     (Description I2)))
+   (place X4
+    (property 
+     (Size "d=0.8/1.5 mm")
+     ("PCB Footprint" HOLE_008_P_015)
+     (timestamp 0108088E)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEgA_ID 90024)
+     (Group "Proud I2")
+     (Value "*Dira 0.8mm")
+     (Description I2G)))
+   (place X5
+    (property 
+     (Size "d=0.8/1.5 mm")
+     ("PCB Footprint" HOLE_008_P_015)
+     (timestamp 01080805)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEgA_ID 90024)
+     (Group "Proud I3")
+     (Value "*Dira 0.8mm")
+     (Description I3)))
+   (place X6
+    (property 
+     (Size "d=0.8/1.5 mm")
+     ("PCB Footprint" HOLE_008_P_015)
+     (timestamp 01080810)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEgA_ID 90024)
+     (Group "Proud I3")
+     (Value "*Dira 0.8mm")
+     (Description I3G)))
+   (place X8
+    (property 
+     (Size "d=1.2/2.2 mm")
+     ("PCB Footprint" HOLE_012_P_022)
+     (timestamp 010862B1)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEGA_ID 90034)
+     (Value "*Dira 1.2 mm")
+     (Description SH)))
+   (place X9
+    (property 
+     (Size "d=1.2/2.2 mm")
+     ("PCB Footprint" HOLE_012_P_022)
+     (timestamp 01086FAF)
+     ("Source Package" SP1)
+     (Assembled Neosadit)
+     (MEGA_ID 90034)
+     (Value "*Dira 1.2 mm")
+     (Description SH))))
+  (component AD824
+   (place N2
+    (property 
+     (Size TSSOP14)
+     (Voltage 5...26V/2.7V...40V)
+     ("PCB Footprint" ZTSSOP14)
+     (timestamp 0107FC16)
+     ("Source Package" AD824)
+     (Assembled Automat)
+     (MEgA_ID 55657.02)
+     (Group "Proud I2")
+     (Manufacturer OPA4991IPWR)
+     (Value OPA4991IPWR))))
+  (component "Ferrite Bead_0"
+   (place L2
+    (property 
+     (Size 0805)
+     ("PCB Footprint" Z0805)
+     (timestamp 01086369)
+     ("Source Package" "Ferrite Bead_0")
+     (Assembled Automat)
+     (MEgA_ID 56029)
+     (Group "L6A - PLL")
+     (Value BLM21PG221SN1D)
+     (Power "2A 220R"))))
+  (component TRANSIL_BI
+   (place V1
+    (property 
+     (Size "SOD523F-2")
+     (Voltage 1V8/2V3/8V)
+     ("PCB Footprint" ZSOD523F)
+     (timestamp 01082F39)
+     ("Source Package" TRANSIL_BI)
+     (Assembled Neosadit)
+     (Group "Proud I1")
+     (MEGA_ID 52330)
+     (Manufacturer "CPDUC1V8HT-HF")
+     (Value "*CPDUC1V8HT-HF")
+     (Power "160W Bi 0.1uA")))
+   (place V2
+    (property 
+     (Size "SOD523F-2")
+     (Voltage 1V8/2V3/8V)
+     ("PCB Footprint" ZSOD523F)
+     (timestamp 01083079)
+     ("Source Package" TRANSIL_BI)
+     (Assembled Neosadit)
+     (Group "Proud I1")
+     (MEGA_ID 52330)
+     (Manufacturer "CPDUC1V8HT-HF")
+     (Value "*CPDUC1V8HT-HF")
+     (Power "160W Bi 0.1uA")))
+   (place V3
+    (property 
+     (Size "SOD523F-2")
+     (Voltage 1V8/2V3/8V)
+     ("PCB Footprint" ZSOD523F)
+     (timestamp 010830BA)
+     ("Source Package" TRANSIL_BI)
+     (Assembled Neosadit)
+     (Group "Proud I1")
+     (MEGA_ID 52330)
+     (Manufacturer "CPDUC1V8HT-HF")
+     (Value "*CPDUC1V8HT-HF")
+     (Power "160W Bi 0.1uA"))))
+  (component CON8
+   (place X7
+    (property 
+     (Size "RM 2.00 mm - 2 x4 piny")
+     ("PCB Footprint" AMP2X4_20_L)
+     (timestamp 01083ADA)
+     ("Source Package" CON8)
+     (Assembled Automat)
+     (Manufacturer " DS1025-05-2x10P8BV1")
+     (MEGA_ID 24157)
+     (Value "S2G4 RM2.00 mm")
+     (Description OUT))))
+  (component MCP1801T_1
+   (place N1
+    (property 
+     (Size "SOT23-5")
+     (Voltage 3V3)
+     ("PCB Footprint" ZSOT23_5)
+     (timestamp 01080C9E)
+     ("Source Package" MCP1801T_1)
+     (Assembled Automat)
+     (MEgA_ID 55770)
+     (Group "DC 3V3")
+     (Value "MCP1801T-3302I/OT")
+     (Power "150 mA"))))
+  (component INDUCTOR
+   (place L1
+    (property 
+     (Size 1210)
+     ("PCB Footprint" Z1210)
+     (timestamp 0108105B)
+     ("Source Package" INDUCTOR)
+     (Assembled Automat)
+     (MEgA_ID 56074)
+     (Group "MÏniË +5V/-5V")
+     (Manufacturer "NLCV32T-151K-EF")
+     (Value 150uH)
+     (Power "100mA  7R9 "))))
+  (component "MOSFET N"
+   (place V4
+    (property 
+     (Size SOT23)
+     (Voltage Uds=30V,Ugs=20V)
+     ("PCB Footprint" ZSOT23)
+     (timestamp 0108104D)
+     ("Source Package" "MOSFET N")
+     (Assembled Automat)
+     (MEgA_ID 53010)
+     (Implementation KY132)
+     (Group "MÏniË +5V/-5V")
+     (Value BSH108)
+     (Power "0.83W, Ic=1.2A"))))
+  (component LM2776_0
+   (place N3
+    (property 
+     (Size "SOT23-6")
+     (Voltage 2V7...+5V)
+     ("PCB Footprint" ZSOT23_6)
+     (timestamp 01080FB1)
+     ("Source Package" LM2776_0)
+     (Assembled Automat)
+     (MEgA_ID 58108)
+     (Group "MÏniË +5V/-5V")
+     (Manufacturer LM2776DBVT)
+     (Value LM2776DBVT)
+     (Power 200mA))))
+  (component R
+   (place R25
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01081E93)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Value 0R0)
+     (Power "0.0625W max. 2A")))
+   (place R26
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01085A2C)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50678)
+     (Tolerance 1%)
+     (Group "Proud I1")
+     (Value 0R0)
+     (Power "0.0625W max. 2A")))
+   (place R27
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01085B2C)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Group "Proud I1")
+     (Value 0R0)
+     (Power "0.0625W max. 2A")))
+   (place R28
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01085BB4)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50678)
+     (Tolerance 1%)
+     (Group "Proud I1")
+     (Value 0R0)
+     (Power "0.0625W max. 2A")))
+   (place R29
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01085F04)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50678)
+     (Tolerance 1%)
+     (Group "Proud I1")
+     (Value 0R0)
+     (Power "0.0625W max. 2A")))
+   (place R30
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01086FBE)
+     ("Source Package" R)
+     (Assembled Neosadit)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Group "Proud I1")
+     (Value *0R0)
+     (Power "0.0625W max. 2A")))
+   (place R1
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107F20D)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50559)
+     (Group "Proud I1")
+     (Value 1K0)
+     (Power 0.0625W)))
+   (place R31
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01087041)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50709)
+     (Tolerance 1%)
+     (Group "Proud I2")
+     (Value 56R)))
+   (place R2
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107DE6C)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50756)
+     (Tolerance 1%)
+     (Group "Proud I1")
+     (Manufacturer "RC0603FR-07220KL")
+     (Value 220K)))
+   (place R3
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107F2CE)
+     ("Source Package" R)
+     (Assembled Neosadit)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Group "Proud I1")
+     (Value *0R0)
+     (Power "0.0625W max. 2A")))
+   (place R4
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107F266)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50728)
+     (Group "Proud I1")
+     (Value 5K1)))
+   (place R5
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107F279)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50559)
+     (Tolerance 1%)
+     (Group "Proud I1")
+     (Value 1K0)
+     (Power 0.0625W)))
+   (place R6
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107F4AF)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50529)
+     (Tolerance 1%)
+     (Group "Proud I1")
+     (Value 100R)
+     (Power 0.0625W)))
+   (place R7
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080441)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50559)
+     (Group "Proud I2")
+     (Value 1K0)
+     (Power 0.0625W)))
+   (place R8
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080529)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50756)
+     (Tolerance 1%)
+     (Group "Proud I2")
+     (Manufacturer "RC0603FR-07220KL")
+     (Value 220K)))
+   (place R9
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080479)
+     ("Source Package" R)
+     (Assembled Neosadit)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Group "Proud I2")
+     (Value *0R0)
+     (Power "0.0625W max. 2A")))
+   (place R10
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080451)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50728)
+     (Tolerance 1%)
+     (Group "Proud I2")
+     (Value 5K1)))
+   (place R11
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0108045F)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50559)
+     (Group "Proud I2")
+     (Value 1K0)
+     (Power 0.0625W)))
+   (place R12
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 010804C1)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50529)
+     (Group "Proud I2")
+     (Value 100R)
+     (Power 0.0625W)))
+   (place R13
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080691)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50559)
+     (Group "Proud I3")
+     (Value 1K0)
+     (Power 0.0625W)))
+   (place R14
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080779)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50756)
+     (Group "Proud I3")
+     (Manufacturer "RC0603FR-07220KL")
+     (Value 220K)))
+   (place R15
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 010806C9)
+     ("Source Package" R)
+     (Assembled Neosadit)
+     (MEgA_ID 50678)
+     (Tolerance 1%)
+     (Group "Proud I3")
+     (Value *0R0)
+     (Power "0.0625W max. 2A")))
+   (place R16
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 010806A1)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50728)
+     (Tolerance 1%)
+     (Group "Proud I3")
+     (Value 5K1)))
+   (place R17
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 010806AF)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50559)
+     (Group "Proud I3")
+     (Value 1K0)
+     (Power 0.0625W)))
+   (place R18
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080711)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50529)
+     (Tolerance 1%)
+     (Group "Proud I3")
+     (Value 100R)
+     (Power 0.0625W)))
+   (place R19
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01087552)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Group "Proud I1")
+     (Value 0R0)
+     (Power "0.0625W max. 2A")))
+   (place R20
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080CF3)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50500)
+     (Tolerance 1%)
+     (Group PamÏù)
+     (Value 100K)
+     (Power 0.0625W)))
+   (place R21
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01081006)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Group "MÏniË +5V/-5V")
+     (Value 0R0)
+     (Power "0.0625W max. 2A")))
+   (place R22
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080FDA)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50558)
+     (Group "MÏniË +5V/-5V")
+     (Value 10K)
+     (Power 0.0625W)))
+   (place R23
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01081032)
+     ("Source Package" R)
+     (Assembled Automat)
+     (MEgA_ID 50559)
+     (Tolerance 1%)
+     (Group "MÏniË +5V/-5V")
+     (Value 1K0)
+     (Power 0.0625W)))
+   (place R24
+    (property 
+     (Size 0603)
+     (Voltage 75V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01081EA6)
+     ("Source Package" R)
+     (Assembled Automat)
+     (Tolerance 1%)
+     (MEgA_ID 50678)
+     (Value 0R0)
+     (Power "0.0625W max. 2A"))))
+  (component C
+   (place C20
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01085A7F)
+     ("Source Package" C)
+     (Assembled Neosadit)
+     (MEgA_ID 51568)
+     (Tolerance C0G)
+     (Group "Proud I1")
+     (Manufacturer CL10C470JB8NNNC)
+     (Value *47p)))
+   (place C21
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01085B3C)
+     ("Source Package" C)
+     (Assembled Neosadit)
+     (Tolerance C0G)
+     (MEgA_ID 51568)
+     (Group "Proud I1")
+     (Manufacturer CL10C470JB8NNNC)
+     (Value *47p)))
+   (place C22
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01085BC4)
+     ("Source Package" C)
+     (Assembled Neosadit)
+     (MEgA_ID 51568)
+     (Tolerance C0G)
+     (Group "Proud I1")
+     (Manufacturer CL10C470JB8NNNC)
+     (Value *47p)))
+   (place C23
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0108827E)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51623)
+     (Tolerance X7R)
+     (Group "L6A - PLL")
+     (Value 100n)))
+   (place C1
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107DF00)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51625)
+     (Tolerance C0G)
+     (Group "Proud I1")
+     (Value 10n)))
+   (place C2
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107FFD7)
+     ("Source Package" C)
+     (Assembled Neosadit)
+     (MEgA_ID 51568)
+     (Tolerance C0G)
+     (Group "Proud I1")
+     (Manufacturer CL10C470JB8NNNC)
+     (Value *47p)))
+   (place C3
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 010804FA)
+     ("Source Package" C)
+     (Assembled Neosadit)
+     (MEgA_ID 51568)
+     (Tolerance C0G)
+     (Group "Proud I2")
+     (Manufacturer CL10C470JB8NNNC)
+     (Value *47p)))
+   (place C4
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0108053B)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51625)
+     (Tolerance C0G)
+     (Group "Proud I2")
+     (Value 10n)))
+   (place C5
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0108074A)
+     ("Source Package" C)
+     (Assembled Neosadit)
+     (Tolerance C0G)
+     (MEgA_ID 51568)
+     (Group "Proud I3")
+     (Manufacturer CL10C470JB8NNNC)
+     (Value *47p)))
+   (place C6
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0108078B)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance C0G)
+     (MEgA_ID 51625)
+     (Group "Proud I3")
+     (Value 10n)))
+   (place C7
+    (property 
+     (Size 0603)
+     ("TEMPERATURE GRADE" "-55 to +125")
+     (Voltage 10V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0108637C)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51674)
+     (Tolerance X5R)
+     (Group "L6A - PLL")
+     (Package 0603)
+     ("TEMP Grade" "-55 to +125")
+     (Value 10u)
+     ("Manufacturers part Reference" C0603C104K5RACTU)
+     ("ROHS STATUS" COMPLIANT)
+     (MAKE Kemet)))
+   (place C8
+    (property 
+     (Size 0603)
+     (Voltage 16V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01086342)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51636)
+     (Tolerance X7R)
+     (Group "L6A - PLL")
+     (Value 1u0)))
+   (place C9
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01086357)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51623)
+     (Tolerance X7R)
+     (Group "L6A - PLL")
+     (Value 100n)))
+   (place C10
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107F307)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51667)
+     (Tolerance X7R)
+     (Group "Proud I1")
+     (Value 33n)))
+   (place C11
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 0107F3D4)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance X7R)
+     (MEgA_ID 51667)
+     (Group "Proud I1")
+     (Value 33n)))
+   (place C12
+    (property 
+     (Size 0603)
+     (Voltage 10V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080C7D)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51674)
+     (Tolerance X5R)
+     (Group "DC 3V3")
+     (Value 10u)))
+   (place C13
+    (property 
+     (Size 0603)
+     (Voltage 10V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080C88)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance X5R)
+     (MEgA_ID 51674)
+     (Group "DC 3V3")
+     (Value 10u)))
+   (place C14
+    (property 
+     (Size 0603)
+     (Voltage 10V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01081163)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance X5R)
+     (MEgA_ID 51674)
+     (Group "MÏniË +5V/-5V")
+     (Value 10u)))
+   (place C15
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 010870F6)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance X7R)
+     (MEgA_ID 51667)
+     (Group "DC 3V3")
+     (Value 33n)))
+   (place C16
+    (property 
+     (Size 0603)
+     (Voltage 50V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01081019)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance X7R)
+     (MEgA_ID 51667)
+     (Group "MÏniË +5V/-5V")
+     (Value 33n)))
+   (place C17
+    (property 
+     (Size 0603)
+     (Voltage 16V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080FBE)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance X7R)
+     (MEgA_ID 51636)
+     (Group "MÏniË +5V/-5V")
+     (Value 1u0)))
+   (place C18
+    (property 
+     (Size 0603)
+     (Voltage 10V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01080FCD)
+     ("Source Package" C)
+     (Assembled Automat)
+     (Tolerance X5R)
+     (MEgA_ID 51674)
+     (Group "MÏniË +5V/-5V")
+     (Value 10u)))
+   (place C19
+    (property 
+     (Size 0603)
+     (Voltage 10V)
+     ("PCB Footprint" Z0603)
+     (timestamp 01081087)
+     ("Source Package" C)
+     (Assembled Automat)
+     (MEgA_ID 51674)
+     (Tolerance X5R)
+     (Group "MÏniË +5V/-5V")
+     (Value 10u)))))
+ (library
+  (image R
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.6\\TOOLS\\CAPTURE\\LIBRARY\\AAAA.OLB)
+    (MEgA_ID SBK)
+    (Size 0603))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GNDSIG)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17309355)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image C
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.6\\TOOLS\\CAPTURE\\LIBRARY\\AAAA.OLB)
+    (Voltage Volt)
+    (Tolerance %)
+    (MEgA_ID SBK)
+    (Size <Size>))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17316575)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GNDSIG)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image SP1
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.6\\TOOLS\\CAPTURE\\LIBRARY\\AAAA.OLB)
+    (MEGA_ID SBK)
+    (Description Potisk))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17291390)
+     (Order 0)
+     ("Is No Connect" False))))
+  (image CON8
+   (property 
+    (sourcelib "C:\\PADS PROJECTS\\MEG74K12\\M74R2\\M74R2.DSN")
+    (MEGA_ID SBK)
+    (Description Potisk))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)
+     (Name 8)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)
+     (Name 7)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17316842)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)
+     (Name 6)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +5V_IN)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)
+     (Name 5)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GNDSIG)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)
+     (Name 4)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     (Order 4)
+     ("Is No Connect" True)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)
+     (Name 3)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17304443)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17304384)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17316575)
+     (Order 7)
+     ("Is No Connect" False))))
+  (image INDUCTOR
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.6\\TOOLS\\CAPTURE\\LIBRARY\\AAAA.OLB)
+    (MEGA_ID SBK))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17305509)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17305632)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image "Ferrite Bead_0"
+   (property 
+    (sourcelib C:\\USERDATA\\BACKUP\\SANGAMCOPY\\SANGAM_01.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +5V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +5V_IN)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image TRANSIL_BI
+   (property 
+    (sourcelib "C:\\PADS PROJECTS\\MEG74K12\\M74R1\\M74R1.DSN")
+    (MEGA_ID SBK))
+   (pin 999 1
+    (property 
+     (pinname A)
+     (pintype 4)
+     (Name A)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GNDSIG)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname K)
+     (pintype 4)
+     (Name K)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17292914)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image "MOSFET N"
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.6\\TOOLS\\CAPTURE\\LIBRARY\\AAAA.OLB)
+    (MEGA_ID SBK))
+   (pin 999 1
+    (property 
+     (pinname G)
+     (pintype 4)
+     (Name G)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N173056501)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname D)
+     (pintype 4)
+     (Name D)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" "-5V")
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname S)
+     (pintype 4)
+     (Name S)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17305632)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image DIODE2x2_AK_2
+   (property 
+    (sourcelib "C:\\PADS PROJECTS\\MEG45DIN\\Z_MEG45\\M45DINA1\\M45DINA1.DSN"))
+   (pin 999 6
+    (property 
+     (pinname AK1)
+     (pintype 4)
+     (Name AK1)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17292914)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname A2)
+     (pintype 4)
+     (Name A2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" "-5V")
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname A1)
+     (pintype 4)
+     (Name A1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" "-5V")
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname AK2)
+     (pintype 4)
+     (Name AK2)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17302581)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname K1)
+     (pintype 4)
+     (Name K1)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +5V)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname K2)
+     (pintype 4)
+     (Name K2)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" +5V)
+     (Order 5)
+     ("Is No Connect" False))))
+  (image DIODE2_K_0
+   (property 
+    (sourcelib C:\\ORCAD\\ORCAD\\M71R2\\M71R2.DSN))
+   (pin 999 2
+    (property 
+     (pinname VCC)
+     (pintype 4)
+     (Name VCC)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17304681)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname SCIO)
+     (pintype 4)
+     (Name SCIO)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17304825)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname VSS)
+     (pintype 4)
+     (Name VSS)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image MCP1801T_1
+   (property 
+    (sourcelib "C:\\PADS PROJECTS\\MEG44DIN\\M44C2\\M44C2.DSN"))
+   (pin 999 1
+    (property 
+     (pinname VIN)
+     (pintype 0)
+     (Name VIN)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" +5V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 4)
+     (Name GND)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname VOUT)
+     (pintype 2)
+     (Name VOUT)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Output)
+     ("Net Name" N17304681)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname S\\H\\D\\N\\)
+     (pintype 0)
+     (Name S\\H\\D\\N\\)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Input)
+     ("Net Name" N173047343)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname NC)
+     (pintype 2)
+     (Name NC)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Output)
+     (Order 4)
+     ("Is No Connect" True))))
+  (image AD824
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.6\\TOOLS\\CAPTURE\\LIBRARY\\MEGA.OLB)
+    (MEGA_ID SBK))
+   (pin 999 3
+    (property 
+     (pinname IN+_A)
+     (pintype 4)
+     (Name IN+)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17302581)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname "IN-_A")
+     (pintype 4)
+     (Name "IN-")
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17302631)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname OUT_A)
+     (pintype 4)
+     (Name OUT)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17302633)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname V+)
+     (pintype 4)
+     (Name V+)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     (Order 3)
+     ("Is No Connect" True)))
+   (pin 999 11
+    (property 
+     (pinname "V-")
+     (pintype 4)
+     (Name "V-")
+     (Number 11)
+     ("Swap Id" "-1")
+     (Type Passive)
+     (Order 4)
+     ("Is No Connect" True)))
+   (pin 999 5
+    (property 
+     (pinname IN+_B)
+     (pintype 4)
+     (Name IN+)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17292914)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname "IN-_B")
+     (pintype 4)
+     (Name "IN-")
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17298092)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname OUT_B)
+     (pintype 4)
+     (Name OUT)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17298095)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 10
+    (property 
+     (pinname IN+_C)
+     (pintype 4)
+     (Name IN+)
+     (Number 10)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17303173)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 9
+    (property 
+     (pinname "IN-_C")
+     (pintype 4)
+     (Name "IN-")
+     (Number 9)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17303223)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname OUT_C)
+     (pintype 4)
+     (Name OUT)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17303225)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 12
+    (property 
+     (pinname IN+_D)
+     (pintype 4)
+     (Name IN+)
+     (Number 12)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17309355)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 13
+    (property 
+     (pinname "IN-_D")
+     (pintype 4)
+     (Name "IN-")
+     (Number 13)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17309358)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 14
+    (property 
+     (pinname OUT_D)
+     (pintype 4)
+     (Name OUT)
+     (Number 14)
+     ("Swap Id" "-1")
+     (Type Passive)
+     (Order 2)
+     ("Is No Connect" True))))
+  (image LM2776_0
+   (property 
+    (sourcelib "C:\\PADS PROJECTS\\MEG71\\M71C4\\M71C4.DSN"))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 4)
+     (Name GND)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" DGND1)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname VIN)
+     (pintype 4)
+     (Name VIN)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17305425)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname EN)
+     (pintype 4)
+     (Name EN)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17305408)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname "C1-")
+     (pintype 3)
+     (Name "C1-")
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type "Open Collector")
+     ("Net Name" N17305507)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname VOUT)
+     (pintype 4)
+     (Name VOUT)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N17305509)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname C1+)
+     (pintype 6)
+     (Name C1+)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type "Open Emitter")
+     ("Net Name" N17305501)
+     (Order 5)
+     ("Is No Connect" False)))))
+ (network
+  (net +5V
+    (property 
+     (nettype S))
+   (pins
+     C10-1 N2-4 C12-1 N1-1 R21-1 C8-1 L2-1 C9-1 R19-1
+     V5-5 V5-4 V6-5 V6-4))
+  (net +5V_IN
+    (property 
+     (nettype S))
+   (pins
+     X7-6 C7-1 L2-2))
+  (net "-5V"
+    (property 
+     (nettype S))
+   (pins
+     C11-1 N2-11 V4-2 V5-2 V5-1 V6-2 V6-1))
+  (net DGND1
+    (property 
+     (nettype S))
+   (pins
+     R23-1 C16-1 C18-1 C19-1 N3-2 C14-1 C23-2))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     C10-2 C11-2 C12-2 C13-2 N1-2 D1-3 X7-8 R29-2 C8-2
+     C7-2 C9-2 R30-1 C15-2))
+  (net GNDSIG
+    (property 
+     (nettype S))
+   (pins
+     X2-1 R2-2 C1-2 R5-2 C4-2 R8-2 R11-2 C6-2 R14-2
+     R17-2 X6-1 X4-1 R25-1 R24-1 V1-1 V2-1 V3-1 X7-5
+     C20-2 C21-2 C22-2 R29-1))
+  (net N17291390
+   (pins
+     X1-1 R1-1))
+  (net N17292914
+   (pins
+     R2-1 C1-1 R1-2 R3-1 N2-5 V1-2 V5-6))
+  (net N17298092
+   (pins
+     R4-2 R5-1 N2-6 C2-2))
+  (net N17298095
+   (pins
+     R4-1 R6-1 N2-7 C2-1))
+  (net N17298536
+   (pins
+     R3-2 R6-2 R26-1))
+  (net N17302581
+   (pins
+     N2-3 C4-1 R7-2 R9-1 R8-1 V2-2 V5-3))
+  (net N17302631
+   (pins
+     N2-2 C3-2 R11-1 R10-2))
+  (net N17302633
+   (pins
+     N2-1 C3-1 R12-1 R10-1))
+  (net N17302713
+   (pins
+     R12-2 R9-2 R27-1))
+  (net N17303173
+   (pins
+     C6-1 R15-1 R14-1 R13-2 N2-10 V3-2 V6-6))
+  (net N17303223
+   (pins
+     R17-1 R16-2 C5-2 N2-9))
+  (net N17303225
+   (pins
+     R18-1 R16-1 C5-1 N2-8))
+  (net N17303305
+   (pins
+     R15-2 R18-2 R28-1))
+  (net N17303603
+   (pins
+     R13-1 X5-1))
+  (net N17303742
+   (pins
+     R7-1 X3-1))
+  (net N17304384
+   (pins
+     X7-2 C21-1 R27-2))
+  (net N17304443
+   (pins
+     X7-3 C22-1 R28-2))
+  (net N17304681
+   (pins
+     C13-1 N1-5 D1-2 R20-1 C15-1))
+  (net N173047343
+   (pins
+     N1-3 R19-2))
+  (net N17304825
+   (pins
+     D1-1 R20-2 R31-2))
+  (net N17305408
+   (pins
+     R22-2 N3-4))
+  (net N17305425
+   (pins
+     C16-2 R22-1 N3-3 R21-2 C14-2))
+  (net N17305501
+   (pins
+     C17-2 N3-5))
+  (net N17305507
+   (pins
+     C17-1 N3-6))
+  (net N17305509
+   (pins
+     C18-2 L1-1 N3-1))
+  (net N17305632
+   (pins
+     V4-3 C19-2 L1-2 C23-1))
+  (net N173056501
+   (pins
+     R23-2 V4-1))
+  (net N17309355
+   (pins
+     N2-12 R25-2))
+  (net N17309358
+   (pins
+     N2-13 R24-2))
+  (net N17316575
+   (pins
+     X7-1 R26-2 C20-1))
+  (net N17316842
+   (pins
+     X7-7 R31-1))
+  (net N17330100
+   (pins
+     X8-1 X9-1 R30-2)))
+)
