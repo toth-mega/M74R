@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [M74R2.PrjPcb]
+   Generated File[M74R2.TXT]
+   Generated File[M74R2.DRL]
+   Generated File[M74R2.LDP]
+   Generated File[M74R2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:03:27 On 15.11.2024
