@@ -1,24 +1,10 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of Project [M74R2.PrjPcb]
-   Generated File[M74R2.GTO]
-   Generated File[M74R2.GTP]
-   Generated File[M74R2.GTS]
-   Generated File[M74R2.GTL]
-   Generated File[M74R2.GBL]
-   Generated File[M74R2.GBS]
-   Generated File[M74R2.GBP]
-   Generated File[M74R2.GBO]
-   Generated File[M74R2.GM1]
-   Generated File[M74R2.GM2]
-   Generated File[M74R2.GPT]
-   Generated File[M74R2.GPB]
-   Generated File[M74R2.RUL]
-   Generated File[M74R2.EXTREP]
-   Generated File[M74R2.REP]
+   Generated File[Pick Place for M74R2.txt]
 
 
-Files Generated   : 15
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:38:45 On 18.11.2024
+Finished Output Generation At 14:13:17 On 25.11.2024
