@@ -1,10 +1,10 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [M74R2.PrjPcb]
-   Generated File[Pick Place for M74R2.txt]
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [M74R2.PrjPcb]
+   Generated File[M74R2.xls]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:13:17 On 25.11.2024
+Finished Output Generation At 12:23:34 On 28.11.2024
