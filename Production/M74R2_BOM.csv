@@ -1,29 +1,29 @@
-Quantity,MEgA_ID,Designator,Value,Tolerance,Manufacturer,Footprint,Assembled,Description,Group,Size,LibRef,Manufacturer Part Number,Dry
 
-"3","51625","C1, C4, C6","10n","C0G","","Z0603","Automat","","Proud I1, Proud I2, Proud I3","0603","C","",""
-"6","51568","C2, C3, C5, C20, C21, C22","*47p","C0G","CL10C470JB8NNNC","Z0603","Neosadit","","Proud I1, Proud I2, Proud I3","0603","C","",""
-"6","51674","C7, C12, C13, C14, C18, C19","10u","X5R","","Z0603","Automat","","L6A - PLL, DC 3V3, MÏniË +5V/-5V","0603","C","",""
-"2","51636","C8, C17","1u0","X7R","","Z0603","Automat","","L6A - PLL, MÏniË +5V/-5V","0603","C","",""
-"2","51623","C9, C23","100n","X7R","","Z0603","Automat","","L6A - PLL","0603","C","",""
-"4","51667","C10, C11, C15, C16","33n","X7R","","Z0603","Automat","","Proud I1, DC 3V3, MÏniË +5V/-5V","0603","C","",""
-"1","55686","D1","11AA010T-I/TT","","11AA010T-I/TT","ZSOT23A","Automat","","PamÏù","SOT23","DIODE2_K_0","",""
-"1","56074","L1","150uH","","NLCV32T-151K-EF","Z1210","Automat","","MÏniË +5V/-5V","1210","INDUCTOR","",""
-"1","56029","L2","BLM21PG221SN1D","","","Z0805","Automat","","L6A - PLL","0805","Ferrite Bead_0","",""
-"1","55875","N1","TPS70933DBV","","","ZSOT23_5","Automat","","DC 3V3","SOT23-5","MCP1801T_1","",""
-"1","55657.02","N2","OPA4991IPWR","","OPA4991IPWR","ZTSSOP14","Automat","","Proud I2","TSSOP14","AD824","",""
-"1","58108","N3","LM2776DBVT","","LM2776DBVT","ZSOT23_6","Automat","","MÏniË +5V/-5V","SOT23-6","LM2776_0","",""
-"7","50559","R1, R5, R7, R11, R13, R17, R23","1K0","1%","","Z0603","Automat","","Proud I1, Proud I2, Proud I3, MÏniË +5V/-5V","0603","R","",""
-"3","50756","R2, R8, R14","220K","1%","RC0603FR-07220KL","Z0603","Automat","","Proud I1, Proud I2, Proud I3","0603","R","",""
-"4","50678","R3, R9, R15, R30","*0R0","1%","","Z0603","Neosadit","","Proud I1, Proud I2, Proud I3","0603","R","",""
-"3","50728","R4, R10, R16","5K1","1%","","Z0603","Automat","","Proud I1, Proud I2, Proud I3","0603","R","",""
-"3","50529","R6, R12, R18","100R","1%","","Z0603","Automat","","Proud I1, Proud I2, Proud I3","0603","R","",""
-"9","50678","R19, R21, R24, R25, R26, R27, R28, R29, R32","0R0","1%","","Z0603","Automat","","Proud I1, MÏniË +5V/-5V, [NoParam]","0603","R","",""
-"1","50500","R20","100K","1%","","Z0603","Automat","","PamÏù","0603","R","",""
-"1","50558","R22","10K","1%","","Z0603","Automat","","MÏniË +5V/-5V","0603","R","",""
-"1","50709","R31","56R","1%","","Z0603","Automat","","Proud I2","0603","R","",""
-"3","52330","V1, V2, V3","*CPDUC1V8HT-HF","","CPDUC1V8HT-HF","ZSOD523F","Neosadit","","Proud I1","SOD523F-2","TRANSIL_BI","",""
-"1","53010","V4","BSH108","","","ZSOT23","Automat","","MÏniË +5V/-5V","SOT23","MOSFET N","",""
-"2","52063","V5, V6","BAT54BRW","","BAT54BRW","ZSOT363","Automat","","L3 - Napeti","SOT363","DIODE2x2_AK_2","",""
-"6","90024","X1, X2, X3, X4, X5, X6","*Dira 0.8mm","","","HOLE_008_P_015","Neosadit","I1, I1G, I2, I2G, I3, I3G","Proud I1, Proud I2, Proud I3","d=0.8/1.5 mm","SP1","",""
-"1","81247","X7","DS1126-S80BP","","","DS1126-S80BP","Manual","","","RJ45","RJ45_Shielded","DS1126-S80BP",""
-"1","90034","X8","*Dira 1.2 mm","","","HOLE_012_P_022","Neosadit","SH","","d=1.2/2.2 mm","SP1","",""
+HEADER;ID;Group;MEgA_ID;Part Reference;Value;Tolerance;Voltage;Power;PCB Footprint;Size;Manufacturer;Assembled;Dry
+"3";"51625";"C1, C4, C6";"10n";"C0G";"";"Z0603";"Automat";"";"Proud I1, Proud I2, Proud I3";"0603";"C";;
+"4";"51667";"C10, C11, C15, C16";"33n";"X7R";"";"Z0603";"Automat";"";"Proud I1, DC 3V3, MÏniË +5V/-5V";"0603";"C";;
+"6";"51568";"C2, C3, C5, C20, C21, C22";"*47p";"C0G";"CL10C470JB8NNNC";"Z0603";"Neosadit";"";"Proud I1, Proud I2, Proud I3";"0603";"C";;
+"6";"51674";"C7, C12, C13, C14, C18, C19";"10u";"X5R";"";"Z0603";"Automat";"";"L6A - PLL, DC 3V3, MÏniË +5V/-5V";"0603";"C";;
+"2";"51636";"C8, C17";"1u0";"X7R";"";"Z0603";"Automat";"";"L6A - PLL, MÏniË +5V/-5V";"0603";"C";;
+"2";"51623";"C9, C23";"100n";"X7R";"";"Z0603";"Automat";"";"L6A - PLL";"0603";"C";;
+"1";"55686";"D1";"11AA010T-I/TT";"";"11AA010T-I/TT";"ZSOT23A";"Automat";"";"PamÏù";"SOT23";"DIODE2_K_0";;
+"1";"56074";"L1";"150uH";"";"NLCV32T-151K-EF";"Z1210";"Automat";"";"MÏniË +5V/-5V";"1210";"INDUCTOR";;
+"1";"56029";"L2";"BLM21PG221SN1D";"";"";"Z0805";"Automat";"";"L6A - PLL";"0805";"Ferrite Bead_0";;
+"1";"55875";"N1";"TPS70933DBV";"";"";"ZSOT23_5";"Automat";"";"DC 3V3";"SOT23-5";"MCP1801T_1";;
+"1";"55657.02";"N2";"OPA4991IPWR";"";"OPA4991IPWR";"ZTSSOP14";"Automat";"";"Proud I2";"TSSOP14";"AD824";;
+"1";"58108";"N3";"LM2776DBVT";"";"LM2776DBVT";"ZSOT23_6";"Automat";"";"MÏniË +5V/-5V";"SOT23-6";"LM2776_0";;
+"7";"50559";"R1, R5, R7, R11, R13, R17, R23";"1K0";"1%";"";"Z0603";"Automat";"";"Proud I1, Proud I2, Proud I3, MÏniË +5V/-5V";"0603";"R";;
+"9";"50678";"R19, R21, R24, R25, R26, R27, R28, R29, R32";"0R0";"1%";"";"Z0603";"Automat";"";"Proud I1, MÏniË +5V/-5V, [NoParam]";"0603";"R";;
+"3";"50756";"R2, R8, R14";"220K";"1%";"RC0603FR-07220KL";"Z0603";"Automat";"";"Proud I1, Proud I2, Proud I3";"0603";"R";;
+"1";"50500";"R20";"100K";"1%";"";"Z0603";"Automat";"";"PamÏù";"0603";"R";;
+"1";"50558";"R22";"10K";"1%";"";"Z0603";"Automat";"";"MÏniË +5V/-5V";"0603";"R";;
+"4";"50678";"R3, R9, R15, R30";"*0R0";"1%";"";"Z0603";"Neosadit";"";"Proud I1, Proud I2, Proud I3";"0603";"R";;
+"1";"50709";"R31";"56R";"1%";"";"Z0603";"Automat";"";"Proud I2";"0603";"R";;
+"3";"50728";"R4, R10, R16";"5K1";"1%";"";"Z0603";"Automat";"";"Proud I1, Proud I2, Proud I3";"0603";"R";;
+"3";"50529";"R6, R12, R18";"100R";"1%";"";"Z0603";"Automat";"";"Proud I1, Proud I2, Proud I3";"0603";"R";;
+"3";"52330";"V1, V2, V3";"*CPDUC1V8HT-HF";"";"CPDUC1V8HT-HF";"ZSOD523F";"Neosadit";"";"Proud I1";"SOD523F-2";"TRANSIL_BI";;
+"1";"53010";"V4";"BSH108";"";"";"ZSOT23";"Automat";"";"MÏniË +5V/-5V";"SOT23";"MOSFET N";;
+"2";"52063";"V5, V6";"BAT54BRW";"";"BAT54BRW";"ZSOT363";"Automat";"";"L3 - Napeti";"SOT363";"DIODE2x2_AK_2";;
+"6";"90024";"X1, X2, X3, X4, X5, X6";"*Dira 0.8mm";"";"";"HOLE_008_P_015";"Neosadit";"I1, I1G, I2, I2G, I3, I3G";"Proud I1, Proud I2, Proud I3";"d=0.8/1.5 mm";"SP1";;
+"1";"81247";"X7";"DS1126-S80BP";"";"";"DS1126-S80BP";"Manual";"";"";"RJ45";"RJ45_Shielded";;
+"1";"90034";"X8";"*Dira 1.2 mm";"";"";"HOLE_012_P_022";"Neosadit";"SH";"";"d=1.2/2.2 mm";"SP1";;
