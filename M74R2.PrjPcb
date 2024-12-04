@@ -357,7 +357,7 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=ed251d00-ce68-4d70-83d6-eafc94f5e186
-Description=Full Assembly M74R2
+Description=Aktiv s OZ
 AllowFabrication=0
 ParameterCount=0
 VariationCount=10
@@ -375,10 +375,10 @@ ParamVariationCount=0
 
 [ProjectVariant2]
 UniqueId=99217d62-bb02-42ed-aac5-1ce098ce7a8d
-Description=Bypass OZ M74R2
+Description=Pasiv bez OZ
 AllowFabrication=0
 ParameterCount=0
-VariationCount=37
+VariationCount=39
 Variation1=Designator=N2|UniqueId=\BBGODRNK|Kind=1|AlternatePart=
 Variation2=Designator=C10|UniqueId=\IOUEDAEU|Kind=1|AlternatePart=
 Variation3=Designator=R4|UniqueId=\TCILPVNV|Kind=1|AlternatePart=
@@ -416,6 +416,8 @@ Variation34=Designator=V3|UniqueId=\MWPWATLS|Kind=1|AlternatePart=
 Variation35=Designator=C21|UniqueId=\FGOCGSYL|Kind=1|AlternatePart=
 Variation36=Designator=C20|UniqueId=\QAFTBAWB|Kind=1|AlternatePart=
 Variation37=Designator=C22|UniqueId=\VGWIYTIQ|Kind=1|AlternatePart=
+Variation38=Designator=V5|UniqueId=\OHQSCUBC|Kind=1|AlternatePart=
+Variation39=Designator=V6|UniqueId=\PBXESPDH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -545,7 +547,7 @@ SCH_ShowNoteCollapsed=-1
 Wir_PrintColor=0
 Ldr_PrintColor=0
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=[No Variations]
+SCH_VariantName=Pasiv bez OZ
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
@@ -1244,15 +1246,15 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration1_Name4=GroupOrder
-Configuration1_Item4=Footprint=True|MEgA_ID=True|Value=True
+Configuration1_Item4=Footprint=True|MEgA_ID=True|Value=True|Fitted=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Footprint=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Quantity=120|MEgA_ID=100|Designator=120|Value=100|Tolerance=100|Manufacturer=100|Footprint=120|Assembled=100|Description=120|Group=100|Size=100|LibRef=120|Manufacturer Part Number=100|Dry=100
+Configuration1_Item6=Quantity=120|MEgA_ID=100|Designator=120|Value=100|Tolerance=100|Manufacturer=100|Footprint=120|Assembled=100|Description=120|Group=100|Size=100|LibRef=120|Manufacturer Part Number=100|Dry=100|Fitted=100
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Quantity=120|MEgA_ID=100|Designator=120|Value=100|Tolerance=100|Manufacturer=100|Footprint=120|Assembled=100|Description=120|Group=100|Size=100|LibRef=120|Manufacturer Part Number=100|Dry=100
+Configuration1_Item7=Quantity=120|MEgA_ID=100|Designator=120|Value=100|Tolerance=100|Manufacturer=100|Footprint=120|Assembled=100|Description=120|Group=100|Size=100|LibRef=120|Manufacturer Part Number=100|Dry=100|Fitted=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1263,15 +1265,15 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=ForceUpdateSettings
 Configuration2_Item2=False
 Configuration2_Name3=General
-Configuration2_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration2_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=True|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration2_Name4=GroupOrder
-Configuration2_Item4=Document=True|Designator=True
+Configuration2_Item4=Document=True|Designator=True|Fitted=True
 Configuration2_Name5=SortOrder
 Configuration2_Item5=Designator=Up
 Configuration2_Name6=VisibleOrder
-Configuration2_Item6=Designator=120|Group=100|MEgA_ID=100|Comment=100|Tolerance=100|Voltage=100|Power=100|Footprint=120|Size=100|Manufacturer=100|Assembled=100|Dry=100
+Configuration2_Item6=Designator=120|Group=100|MEgA_ID=100|Comment=100|Tolerance=100|Voltage=100|Power=100|Footprint=120|Size=100|Manufacturer=100|Assembled=100|Dry=100|Fitted=100
 Configuration2_Name7=VisibleOrder_Flat
-Configuration2_Item7=Designator=120|Group=100|MEgA_ID=100|Comment=100|Tolerance=100|Voltage=100|Power=100|Footprint=120|Size=100|Manufacturer=100|Assembled=100|Dry=100
+Configuration2_Item7=Designator=120|Group=100|MEgA_ID=100|Comment=100|Tolerance=100|Voltage=100|Power=100|Footprint=120|Size=100|Manufacturer=100|Assembled=100|Dry=100|Fitted=100
 OutputType3=ReportHierarchy
 OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
