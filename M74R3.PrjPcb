@@ -297,7 +297,7 @@ UniqueID=D46E239D-68AE-4A28-9B04-EC18D9FD3D7B
 Description=Aktivní s OZ - TOR 25A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=28
+VariationCount=31
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -416,6 +416,9 @@ ParamDesignator45=R13
 Variation26=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation27=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation28=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation29=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation30=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation31=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=45
 
 [ProjectVariant2]
@@ -423,7 +426,7 @@ UniqueID=99495ACA-04F8-4AE2-B31E-6172285750DE
 Description=Aktivní s OZ - TOR 5A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=25
+VariationCount=28
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -521,6 +524,9 @@ ParamDesignator36=R17
 Variation23=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation24=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation25=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation26=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation27=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation28=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=36
 
 [ProjectVariant3]
@@ -528,7 +534,7 @@ UniqueID=8F442B42-C8D7-4745-94EE-471E46B3FD6B
 Description=Aktivní s OZ - TOR 1A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=28
+VariationCount=31
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -647,6 +653,9 @@ ParamDesignator45=R17
 Variation26=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation27=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation28=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation29=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation30=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation31=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=45
 
 [ProjectVariant4]
@@ -654,7 +663,7 @@ UniqueID=B8A00C71-203D-433D-A1F0-545AE382B41F
 Description=Aktivní s OZ - LCT10 25A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=28
+VariationCount=31
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -773,6 +782,9 @@ ParamDesignator45=R11
 Variation26=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation27=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation28=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation29=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation30=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation31=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=45
 
 [ProjectVariant5]
@@ -780,7 +792,7 @@ UniqueID=C5CE2ED2-2E18-496D-8193-66B2A0E50851
 Description=Aktivní s OZ - LCT10 5A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=28
+VariationCount=31
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -899,6 +911,9 @@ ParamDesignator45=R17
 Variation26=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation27=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation28=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation29=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation30=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation31=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=45
 
 [ProjectVariant6]
@@ -906,7 +921,7 @@ UniqueID=E610065B-762E-47EB-A0F4-C02A9C5BBF93
 Description=Aktivní s OZ - LCT10 1A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=25
+VariationCount=28
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -1004,6 +1019,9 @@ ParamDesignator36=C6
 Variation23=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation24=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation25=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation26=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation27=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation28=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=36
 
 [ProjectVariant7]
@@ -1011,7 +1029,7 @@ UniqueID=30D7DF18-FA8C-446B-9E2F-C3F260CBFC37
 Description=Aktivní s OZ - AMOS 1000A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
+VariationCount=22
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -1067,6 +1085,9 @@ ParamDesignator18=R17
 Variation17=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation18=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation19=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation20=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation21=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation22=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=18
 
 [ProjectVariant8]
@@ -1074,7 +1095,7 @@ UniqueID=9173485A-FA0B-480D-905B-9968CE43018E
 Description=Aktivní s OZ - AMOS 600A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=16
+VariationCount=19
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -1109,6 +1130,9 @@ ParamDesignator9=R16
 Variation14=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation15=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation16=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation17=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation18=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation19=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=9
 
 [ProjectVariant9]
@@ -1116,7 +1140,7 @@ UniqueID=ed251d00-ce68-4d70-83d6-eafc94f5e186
 Description=Aktivní s OZ - AMOS 200A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=13
+VariationCount=16
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -1130,6 +1154,9 @@ Variation10=Designator=C22|UniqueId=\VGWIYTIQ|Kind=1|AlternatePart=
 Variation11=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation12=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation13=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation14=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation15=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation16=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant10]
@@ -1137,7 +1164,7 @@ UniqueID=461BCFF2-D9D0-4F64-A2A4-100D8E4DB127
 Description=Aktivní s OZ - AMOS 300A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=16
+VariationCount=19
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -1172,6 +1199,9 @@ ParamDesignator9=R16
 Variation14=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation15=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation16=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation17=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation18=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation19=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=9
 
 [ProjectVariant11]
@@ -1179,7 +1209,7 @@ UniqueID=7172A00E-6EE6-4894-BD1F-7B846288102E
 Description=Aktivní s OZ - AMOS 100A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=19
+VariationCount=22
 Variation1=Designator=R3|UniqueId=\VXWTESRF|Kind=1|AlternatePart= 
 Variation2=Designator=R30|UniqueId=\CRHVEBQN|Kind=1|AlternatePart= 
 Variation3=Designator=R15|UniqueId=\TTTYUSEF|Kind=1|AlternatePart= 
@@ -1235,6 +1265,9 @@ ParamDesignator18=R16
 Variation17=Designator=C2|UniqueId=\UMUYYFEK|Kind=1|AlternatePart= 
 Variation18=Designator=C3|UniqueId=\JIGIGNNW|Kind=1|AlternatePart= 
 Variation19=Designator=C5|UniqueId=\MRHJRUXU|Kind=1|AlternatePart= 
+Variation20=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation21=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation22=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=18
 
 [ProjectVariant12]
@@ -1242,7 +1275,7 @@ UniqueID=99217d62-bb02-42ed-aac5-1ce098ce7a8d
 Description=Pasivní bez OZ
 AllowFabrication=0
 ParameterCount=0
-VariationCount=39
+VariationCount=42
 Variation1=Designator=N2|UniqueId=\BBGODRNK|Kind=1|AlternatePart= 
 Variation2=Designator=C10|UniqueId=\IOUEDAEU|Kind=1|AlternatePart= 
 Variation3=Designator=R4|UniqueId=\TCILPVNV|Kind=1|AlternatePart= 
@@ -1282,181 +1315,96 @@ Variation36=Designator=C20|UniqueId=\QAFTBAWB|Kind=1|AlternatePart=
 Variation37=Designator=C22|UniqueId=\VGWIYTIQ|Kind=1|AlternatePart= 
 Variation38=Designator=V5|UniqueId=\OHQSCUBC|Kind=1|AlternatePart= 
 Variation39=Designator=V6|UniqueId=\PBXESPDH|Kind=1|AlternatePart= 
+Variation40=Designator=R33|UniqueId=\ENMIYAZD|Kind=1|AlternatePart= 
+Variation41=Designator=R34|UniqueId=\BMATXWIN|Kind=1|AlternatePart= 
+Variation42=Designator=R35|UniqueId=\TQMJJWEU|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for M74R2\M74R2.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for M74R2\M74R2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for M74R2\M74R2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for M74R2\M74R2.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for M74R2\M74R2.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for M74R2\M74R2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for M74R2\M74R2.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for M74R2\M74R2.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for M74R2\M74R2.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for M74R2\M74R2.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for M74R2\M74R2.GM19
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for M74R2\M74R2.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for M74R2\M74R2.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for M74R2\M74R2.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for M74R2\M74R2.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for M74R2\M74R2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for M74R2\M74R2.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for M74R2\M74R2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for M74R2\M74R2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for M74R2\M74R2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for M74R2\M74R2.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
 DocumentPath=Project Outputs for M74R3\M74R3.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for M74R3\M74R3.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for M74R3\M74R3.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for M74R3\M74R3.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for M74R3\M74R3.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for M74R3\M74R3.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for M74R3\M74R3.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for M74R3\M74R3.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for M74R3\M74R3.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for M74R3\M74R3.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for M74R3\M74R3.GM19
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for M74R3\M74R3.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for M74R3\M74R3.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for M74R3\M74R3.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for M74R3\M74R3.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for M74R3\M74R3.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for M74R3\M74R3.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for M74R3\M74R3.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for M74R3\M74R3.REP
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for M74R3\M74R3.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for M74R3\M74R3.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument43]
-DocumentPath=Project Outputs for M74R2\Pick Place for M74R2.txt
-DItemRevisionGUID=
-
-[GeneratedDocument44]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for M74R3\Pick Place for M74R3.txt
 DItemRevisionGUID=
 
@@ -1503,7 +1451,7 @@ SCH_ShowNoteCollapsed=-1
 Wir_PrintColor=0
 Ldr_PrintColor=0
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=Aktiv s OZ
+SCH_VariantName=Aktivní s OZ - AMOS 100A
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
