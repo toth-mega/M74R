@@ -1404,10 +1404,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for M74R3\M74R3.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for M74R3\Pick Place for M74R3.txt
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Organization
 Value=MEgA - Měřící Energetické Aparáty, a.s.
@@ -1451,7 +1447,7 @@ SCH_ShowNoteCollapsed=-1
 Wir_PrintColor=0
 Ldr_PrintColor=0
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=Aktivní s OZ - AMOS 100A
+SCH_VariantName=Pasivní bez OZ
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
