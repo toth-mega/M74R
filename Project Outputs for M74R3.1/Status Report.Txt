@@ -1,13 +1,26 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [M74R3.1.PrjPcb]
-   Generated File[M74R3.1.TXT]
-   Generated File[M74R3.1.DRL]
-   Generated File[M74R3.1.LDP]
-   Generated File[M74R3.1.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [M74R3.1.PrjPcb]
+   Generated File[M74R3.1.GTO]
+   Generated File[M74R3.1.GTP]
+   Generated File[M74R3.1.GTS]
+   Generated File[M74R3.1.GTL]
+   Generated File[M74R3.1.GBL]
+   Generated File[M74R3.1.GBS]
+   Generated File[M74R3.1.GBP]
+   Generated File[M74R3.1.GBO]
+   Generated File[M74R3.1.GM1]
+   Generated File[M74R3.1.GM2]
+   Generated File[M74R3.1.GM15]
+   Generated File[M74R3.1.GM19]
+   Generated File[M74R3.1.GPT]
+   Generated File[M74R3.1.GPB]
+   Generated File[M74R3.1.RUL]
+   Generated File[M74R3.1.EXTREP]
+   Generated File[M74R3.1.REP]
 
 
-Files Generated   : 4
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 11:25:03 On 30.01.2025
+Finished Output Generation At 12:27:38 On 30.01.2025
